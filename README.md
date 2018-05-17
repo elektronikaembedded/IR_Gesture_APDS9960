@@ -6,7 +6,8 @@
 ##### Microcontroller : STM32 (STM32F103C8T6)
 ##### Sensor : APDS9960
 
-Use : Create a Project in coocox or IAR Workbench add STM32 related files-"CMSIS,CMSIS_BOOT" Standard Library ,and the Application Code
+Use : Create a Project in coocox or IAR Workbench add STM32 related files-"CMSIS,CMSIS_BOOT" Standard Library ,application code
+and Compile!!!
 
 
 

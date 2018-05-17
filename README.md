@@ -1,10 +1,14 @@
-## IR_Gesture_APDS9960(Gesture Application)
+#                                             IR_Gesture_APDS9960(Gesture Application)
 
-## This Project is for Interfacing IR Gesture Sensor APDS9960 with STM32 
 
-# Compiler : coocox IDE or IAR Workbench
-# Sensor : APDS9960
-# Microcontroller : STM32 (STM32F103C8T6)
+## 					   Interfacing IR Gesture Sensor APDS9960 with STM32 
+
+
+
+## Compiler : coocox IDE or IAR Workbench
+## Sensor : APDS9960
+## Microcontroller : STM32 (STM32F103C8T6)
+
 
 Use : Create a Project in coocox or IAR Workbench add STM32 related files-"CMSIS,CMSIS_BOOT" Standard Library ,and the Application Code
 
